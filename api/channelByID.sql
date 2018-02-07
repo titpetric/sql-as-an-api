@@ -1,0 +1,1 @@
+select * from channels where channel=:id
